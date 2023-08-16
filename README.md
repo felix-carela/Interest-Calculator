@@ -1,4 +1,4 @@
-# Cplusplus-Program
+# C++ Display and Calculate Interest Program
 
 # Summarize the project and what problem it was solving.
 This program displays and calculates the interest gained from an investment given initial value, monthly deposit, interest rate, and number of years.
